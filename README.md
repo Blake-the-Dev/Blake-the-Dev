@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Blake-the-Dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Blake.
 
-<!---
-Blake-the-Dev/Blake-the-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a university student at Deakin University and have just entered my 4th year of a Bachelor of Information Technology.
+
+Web development has interested me for a long time and I have decided to add the work I have done here so that I can show others what I am capable of.
+
+I primarily focus on Back End development but am more than able to complete the Full Stack.
+
+I understand that my UI Design is rather lacking and am currently taking the time to learn how to improve it.
