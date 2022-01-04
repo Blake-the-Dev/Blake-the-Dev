@@ -1,4 +1,4 @@
-Hi, I'm Blake.
+Hi, I'm Blake!
 
 I am a university student at Deakin University and have just entered my 4th year of a Bachelor of Information Technology.
 
